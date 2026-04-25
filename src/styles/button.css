@@ -1,0 +1,13 @@
+/* Optional global improvements */
+button {
+  font-family: inherit;
+}
+
+button:active {
+  transform: scale(0.97);
+}
+
+button:focus {
+  outline: 2px solid #2563eb;
+  outline-offset: 2px;
+}
